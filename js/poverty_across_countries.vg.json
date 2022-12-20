@@ -4,7 +4,7 @@
     "height": 500,
     "title": "Poverty Across Countries",
     "data": {
-        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/poverty.csv"
+        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/poverty.csv"
     },
     "params": [
         {

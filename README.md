@@ -1,7 +1,25 @@
-# What is the Best Country To live in?
+# Table of Contents:
+
+- [Table of Contents:](#table-of-contents)
+  - [What is the Best Country To live in?](#what-is-the-best-country-to-live-in)
+  - [Tasks Performed and Skill used:](#tasks-performed-and-skill-used)
+      - [Web Scraping + Data Cleaning (Python + Pandas):](#web-scraping--data-cleaning-python--pandas)
+      - [Creation of Final Averaged Graph (Python + Pandas):](#creation-of-final-averaged-graph-python--pandas)
+      - [Creation of Graphs (Vega-Lite)](#creation-of-graphs-vega-lite)
+      - [Displaying on Webpage (HTML + CSS)](#displaying-on-webpage-html--css)
+  - [Acknowledgements:](#acknowledgements)
+    - [Data:](#data)
+
+
+<br>
+
+## What is the Best Country To live in? 
+Website Link: https://rytang.github.io/Country-Project/
+
 One of the concepts that I was so curious in was what defines a Good Country to live in? Is it the security of a job, the economy of the country or the benifits that a country provides: Health Care, Luxury Activities, or environnent.
 
 Therefore this is what this project attempts to solve. It attempts to display all these metrics together to form an insight for those that are interested.
+
 
 <br>
 

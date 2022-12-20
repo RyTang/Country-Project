@@ -11,7 +11,7 @@
             "layer": [
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/js/countryLayout.topojson",
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/js/countryLayout.topojson",
                         "format": {
                             "type": "topojson",
                             "feature": "ne_110m_admin_0_countries"
@@ -39,7 +39,7 @@
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/oceans.topojson",
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/oceans.topojson",
                         "format": {
                             "type": "topojson",
                             "feature": "oceans"
@@ -52,7 +52,7 @@
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/unemployment_years_clean.csv"
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/unemployment_years_clean.csv"
                     },
                     "params": [
                         {
@@ -70,7 +70,7 @@
                             "lookup": "Country Name",
                             "from": {
                                 "data": {
-                                    "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/js/countryLayout.topojson",
+                                    "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/js/countryLayout.topojson",
                                     "format": {
                                         "type": "topojson",
                                         "feature": "ne_110m_admin_0_countries"
@@ -84,7 +84,7 @@
                             "lookup": "Country Name",
                             "from": {
                                 "data": {
-                                    "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/literacy_rate.csv"
+                                    "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/literacy_rate.csv"
                                 },
                                 "key": "country",
                                 "fields": [
@@ -175,7 +175,7 @@
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/js/countryLayout.topojson",
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/js/countryLayout.topojson",
                         "format": {
                             "type": "topojson",
                             "feature": "ne_110m_graticules_30"
@@ -189,7 +189,7 @@
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/unemployment_years_clean.csv"
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/unemployment_years_clean.csv"
                     },
                     "transform": [
                         {
@@ -217,7 +217,7 @@
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/js/countryLayout.topojson",
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/js/countryLayout.topojson",
                         "format": {
                             "type": "topojson",
                             "feature": "ne_110m_admin_0_countries"
@@ -228,7 +228,7 @@
                             "lookup": "properties.NAME",
                             "from": {
                                 "data": {
-                                    "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/countryInfo.csv"
+                                    "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/countryInfo.csv"
                                 },
                                 "key": "name",
                                 "fields": [
@@ -270,7 +270,7 @@
             "height": 150,
             "title": "Average Unemployment Rate (Click on a point)",
             "data": {
-                "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/unemployment_years_clean.csv"
+                "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/unemployment_years_clean.csv"
             },
             "params": [
                 {
@@ -340,7 +340,7 @@
                     "height": 450,
                     "title": "Top Unemployed Countries by Year",
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/unemployment_years_clean.csv"
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/unemployment_years_clean.csv"
                     },
                     "transform": [
                         {
@@ -519,7 +519,7 @@
                     "height": 450,
                     "title": "Top Countries in Poverty",
                     "data": {
-                        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/poverty.csv"
+                        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/poverty.csv"
                     },
                     "transform": [
                         {

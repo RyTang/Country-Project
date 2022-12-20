@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Cost of Living Index Compared to New York",
     "data": {
-        "url": "https://raw.githubusercontent.com/rtan0053/FIT3179/main/data/cost_of_living_index_2022.csv"
+        "url": "https://raw.githubusercontent.com/RyTang/Country-Project/main/data/cost_of_living_index_2022.csv"
     },
     "width": "container",
     "height": 1050,
